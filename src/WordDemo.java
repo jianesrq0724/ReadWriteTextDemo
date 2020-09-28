@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class WordDemo {
-    static String mPathname = "D:\\MyJobInfo\\word\\middle_word_1.txt";
+    static String mPathname = "src/file/middle_word_1.txt";
     static List<String> mWordArray = new ArrayList<>();
     //    static int mStartIndex = 2201;
     static int mStartIndex = 4;
