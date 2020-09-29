@@ -9,7 +9,7 @@ public class WordDemo {
     static String mPathname = "src/file/middle_word_1.txt";
     static List<String> mWordArray = new ArrayList<>();
     //    static int mStartIndex = 2201;
-    static int mStartIndex = 4;
+    static int mStartIndex = 2;
 
     public static void main(String[] args) {
 
