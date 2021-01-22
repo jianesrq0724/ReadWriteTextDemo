@@ -9,7 +9,7 @@ public class WordDemo {
     static String mPathname = "src/file/middle_word_1.txt";
     static List<String> mWordArray = new ArrayList<>();
     //    static int mStartIndex = 2201;
-    static int mStartIndex = 2;
+    static int mStartIndex = 100;
 
     public static void main(String[] args) {
 
@@ -58,8 +58,8 @@ public class WordDemo {
         try {
 //            Thread.sleep(5000);
 //            Thread.sleep(3000);
-//            Thread.sleep(2000);
-            Thread.sleep(1200);
+            Thread.sleep(2000);
+//            Thread.sleep(1200);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
